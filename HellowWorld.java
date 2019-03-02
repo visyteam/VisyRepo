@@ -12,3 +12,7 @@ fork commit 1
    fork commit 3
    fork commit 3 fork commit 3
    fork commit 3
+ fork commit 4
+    fork commit 4
+   fork commit 4
+   fork commit 4 fork commit 4 fork commit 4
